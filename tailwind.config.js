@@ -2,6 +2,7 @@ module.exports = {
   content: ["index.html", "./src/**/*.jsx"],
   theme: {
     colors: {
+      transparent: 'transparent',
       current: 'currentColor',
       'aside': '#0E0B16',
       'asideTwo': '#272E3B',
